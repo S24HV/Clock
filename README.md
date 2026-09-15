@@ -23,3 +23,5 @@ Developing this project helped me master key programming and layout fundamentals
 
 ---
 *Created for educational purposes during my early learning days as a frontend developer.*
+
+.
